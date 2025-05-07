@@ -13,7 +13,7 @@ Develop a full-stack application called "RouteMaster" using Meteor.js 3, designe
 - Demonstrate mastery of advanced algorithms and data structures to solve complex optimization problems.
 - Show proficiency in Meteor.js 3, MongoDB, Node.js, and React, with an emphasis on high-quality code and fast delivery.
 - Exhibit skills in integrating with external APIs (such as maps and traffic) and using AI tools for productivity.
-- Highlight the ability to handle performance, scalability, and code maintenance, aligning with Quave’s values.
+- Highlight the ability to handle performance, scalability, and code maintenance.
 
 #### Main Features
 1. **Delivery Point Registration**: Users can add multiple delivery addresses with information such as priority (urgent or normal) and delivery time windows.
@@ -38,12 +38,12 @@ To highlight senior developer skills, the focus will be on implementing advanced
 3. **Performance and Scalability**
    - Cache route calculations in MongoDB to avoid recalculating identical routes repeatedly, using indexes for fast searches.
    - Implement an asynchronous approach on the backend with Node.js to handle traffic API calls without blocking the system.
-   - Justification: Reflects the ability to handle performance issues, as mentioned in Quave’s project examples (urgent performance analysis).
+   - Justification: Reflects the ability to handle performance issues.
 
 4. **Integration with External APIs**
    - Integrate the Google Maps or OpenStreetMap API for geocoding (converting addresses to coordinates) and obtaining traffic data.
    - Use WebSockets (native in Meteor.js) for real-time route updates on the frontend.
-   - Justification: Demonstrates skill in integrating external services and working with modern technologies, aligning with Quave’s projects.
+   - Justification: Demonstrates skill in integrating external services and working with modern technologies.
 
 5. **Frontend with React and Tailwind CSS**
    - Create an intuitive interface with React, using reusable components and modern hooks to manage state (such as `useState` and `useEffect`).
