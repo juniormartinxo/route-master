@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8443fe65-1e49-4944-bdb3-a4d9a2730aad" alt="Route Master" width="200"/>
+</div>
+
+---
+
 ### Projeto Educacional: Plataforma de Otimização de Rotas para Entregas com IA
 
 #### Descrição Geral
