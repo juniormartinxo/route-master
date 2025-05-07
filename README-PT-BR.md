@@ -13,7 +13,7 @@ Desenvolver uma aplicação full-stack chamada "RouteMaster" usando Meteor.js 3,
 - Demonstrar domínio de algoritmos avançados e estruturas de dados para resolver problemas complexos de otimização.
 - Mostrar proficiência em Meteor.js 3, MongoDB, Node.js e React, com ênfase em código de alta qualidade e entrega rápida.
 - Exibir habilidades de integração com APIs externas (como mapas e tráfego) e uso de ferramentas de IA para produtividade.
-- Evidenciar capacidade de lidar com performance, escalabilidade e manutenção de código, alinhando-se aos valores da Quave.
+- Evidenciar capacidade de lidar com performance, escalabilidade e manutenção de código.
 
 #### Funcionalidades Principais
 1. **Cadastro de Pontos de Entrega**: Usuários podem adicionar múltiplos endereços de entrega com informações como prioridade (urgente ou normal) e janela de tempo para entrega.
@@ -38,12 +38,12 @@ Para destacar as habilidades como desenvolvedor sênior, o foco será na impleme
 3. **Performance e Escalabilidade**
    - Armazene cálculos de rotas em cache no MongoDB para evitar recalcular rotas idênticas repetidamente, usando índices para buscas rápidas.
    - Implemente uma abordagem assíncrona no backend com Node.js para lidar com chamadas de API de tráfego sem bloquear o sistema.
-   - Justificativa: Reflete a capacidade de lidar com problemas de performance, como os mencionados nos exemplos de projetos da Quave (análise urgente de performance).
+   - Justificativa: Refletir a capacidade de lidar com problemas de performance.
 
 4. **Integração com APIs Externas**
    - Integre a API do Google Maps ou OpenStreetMap para geocodificação (converter endereços em coordenadas) e obtenção de dados de tráfego.
    - Use WebSockets (nativo no Meteor.js) para atualizações em tempo real de rotas no frontend.
-   - Justificativa: Demonstra habilidade em integrar serviços externos e trabalhar com tecnologias modernas, alinhando-se aos projetos da Quave.
+   - Justificativa: Demonstrar habilidade em integrar serviços externos e trabalhar com tecnologias modernas.
 
 5. **Frontend com React e Tailwind CSS**
    - Crie uma interface intuitiva com React, usando componentes reutilizáveis e hooks modernos para gerenciar estado (como `useState` e `useEffect`).
